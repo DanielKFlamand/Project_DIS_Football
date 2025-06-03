@@ -1,0 +1,10 @@
+pandas
+sqlite3
+re
+flask 
+render_template
+request
+session
+redirect
+url_for
+jsonify
