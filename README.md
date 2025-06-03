@@ -4,7 +4,7 @@ Database: premier_data.csv (link:  https://www.kaggle.com/datasets/orkunaktas/pr
 
 #Running Football_Project
 
-(1) pip install requirements.txt
+(1) pip install -r requirements.txt 
 
 (2) Run the python file 'importDATA.py' to initialize the database.
 
