@@ -1,4 +1,5 @@
 #Football App
+
 Database: premier_data.csv (link:  https://www.kaggle.com/datasets/orkunaktas/premier-league-all-players-stats-2324)
 
 #Running Football_Project
@@ -11,6 +12,7 @@ Database: premier_data.csv (link:  https://www.kaggle.com/datasets/orkunaktas/pr
 
 ----------------------------------------------------------------------
 #How to use the football app:
+
 (1) View the 'Players Table' to see all players and their stats. You can sort in decreasing and increasing order by clicking on the column names.
 
 (2) Build your 2 line ups by pressing the 'Lineup Builder' button.
